@@ -1,0 +1,4 @@
+csv converter em XML
+meter no lado do servidor e fazer o parsing
+fazer consultas atraves de xpath e xquery
+e meter na BD
